@@ -2,6 +2,8 @@
 
 This project connects a Bangle.js device to an eSense-0166 sensor and visualizes the sensor data on the Bangle.js screen. The eSense-0166 sensor provides gyroscopic and accelerometer data.
 
+<img width="800" alt="Screenshot 2023-10-31 183914" src="https://github.com/Arslanshanii/-eSense-0166-Sensor-Data-Visualization-with-Bangle.js/assets/107418040/be93aa16-285d-4dfd-b12c-73063938d7bf">
+
 ## Prerequisites
 
 Before running this code, ensure you have the following:
